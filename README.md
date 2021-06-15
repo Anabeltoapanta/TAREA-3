@@ -1,1 +1,15 @@
-# TAREA-3
+**1. OBJETIVOS**
+
+Objetivos Generales
+
+Objetivos Específicos
+
+**2. MARCO TEÓRICO**
+
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+**4. VIDEO**
+
+**5. CONCLUSIONES**
+
+**6. BIBLIOGRAFÍA**
