@@ -81,4 +81,5 @@ En la unidad 6 pudimos observar la capacidad de los componentes al conectarse en
 En fin un circuitos en serie y paralelo son circuito muy diferentes entre si cada una de ellas tienes sus respectivas formulas para calcular su resistencia total y sus constantes que bien puede ser para la intensidad o el voltaje total, sin embargo con la ayuda de las leyes de kirchoff para el voltaje y la intensidad nos simplifican mucho estas ecuaciones y no es necesario tener varios datos para calcular las diversas magnitudes de cada elemento conectado al circuito.
 
 **6. BIBLIOGRAFÍA**
-allan h. robins,  wilhelm c. mille. (2013). Analisis De Circuitos (Vol. 1).
+
+Allan H. Robbins,  wilhelm c. mille. (2013). Analisis De Circuitos (Vol. 1).
