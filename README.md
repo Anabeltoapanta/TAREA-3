@@ -48,6 +48,18 @@ Objetivos Específicos
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/22.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/23.jpg)
 
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/41.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/42.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/43.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/44.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/45.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/46.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/47.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/48.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/49.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/50.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/51.jpg)
+
 **4. VIDEO**
 
 **5. CONCLUSIONES**
