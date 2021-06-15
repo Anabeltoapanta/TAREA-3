@@ -22,7 +22,7 @@ Objetivos Específicos
 **2. MARCO TEÓRICO**
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/0001.jpg)
 
-**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+**3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/1.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/2.jpg)
