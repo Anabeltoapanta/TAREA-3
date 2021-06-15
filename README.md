@@ -55,6 +55,7 @@ Objetivos Específicos
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/45.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/46.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/47.jpg)
+![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/20210615_071345.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/48.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/49.jpg)
 ![](https://github.com/Anabeltoapanta/TAREA-3/blob/main/50.jpg)
