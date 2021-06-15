@@ -69,4 +69,8 @@ Objetivos Específicos
 
 **5. CONCLUSIONES**
 
+En estos capítulos nos concentramos más en los circuitos en serie como podemos calcular sus voltajes de subida y de bajada con la ayuda de las leyes de kirchoff, como ordenar y simplificar cada componente para tener el circuito mucho mas didactico para su respectivo calculo. Donde los puntos a destacar son que se debe tomar en cuenta la polaridad de los voltajes ya que estos se puede sumar o dividir de acuerdo a como esten conectados al circuito y tambien por emplear el uso del multimetro para medir dichas corrientes y voltajes, generan una pequeña cantidad de error debido a que este tiene una resistencia interna que al medir forma parte del circuito, dicha resistencia es muy pequeña pero afecta considerablemente al calculo y las mediciones de las mgnitudes
+
+En fin un circuitos en serie y paralelo son circuito muy diferentes entre si cada una de ellas tienes sus respectivas formulas para calcular su resistencia total y sus constantes que bien puede ser para la intensidad o el voltaje total, sin embargo con la ayuda de las leyes de kirchoff para el voltaje y la intensidad nos simplifican mucho estas ecuaciones y no es necesario tener varios datos para calcular las diversas magnitudes de cada elemento conectado al circuito.
+
 **6. BIBLIOGRAFÍA**
